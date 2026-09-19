@@ -1,0 +1,4 @@
+kns-tn10/
+node_modules/
+*.hex
+secrets/
