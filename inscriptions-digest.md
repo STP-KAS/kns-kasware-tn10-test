@@ -1,6 +1,10 @@
 # KNS TN10 inscriptions digest
 
-Total: **58**
+**This file is the 19 Sep 2026 snapshot. Total in this file: 58. It is not the 750 record.**
+
+Live recheck 23 Sep 2026 against https://api.knsdomains.org/tn10: stp-bulk-0001.kas through stp-bulk-0750.kas all return an owner (750/750). 0751 through 0760 are 404. This table skips 0056 and 0058. Those names are on the indexer. Reveal txids for 0056, 0058, and 0060-0750 are not stored here.
+
+Paused 20 Sep 2026 pending the Grok Bot weekly pool. See issue #1.
 
 | Domain | Reveal tx | Inscription id | Payer |
 |--------|-----------|----------------|-------|
