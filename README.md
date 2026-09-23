@@ -16,6 +16,20 @@ Live `https://api.knsdomains.org/tn10` owner reads: `stp-bulk-0001.kas` through 
 
 `inscriptions-digest.md` and `inscriptions-digest.csv` are the **19 Sep snapshot (58 rows)**. The markdown table skips `0056` and `0058`. They are not the 750 record. `FINDINGS-DRAFT.md` stops at the smoke, then the 23 Sep recheck. No resume script is in this git tree. `0751` has not been indexed.
 
+## KNS Telegram snapshot (23 Sep 2026)
+
+Relayed by the operator from the KNS Telegram chat. Kept as sent. This desk did not re-run the covenant registration.
+
+> We just successfully tested .kas registration on Covenant TN10 today~
+>
+> KNS Covenant UI/UX Redesign, around 80% completed. A teaser will come out soon!
+>
+> Airdrop/ Claim mechanism WIP
+>
+> Kaspire Wallet on TN10/ MN soon
+
+Same-day GitBook supporting-wallet table: KasWare, Kastle, Kurncy, Kasanova. Kaspire was not a row.
+
 Log: [issue #1](https://github.com/STP-KAS/kns-kasware-tn10-test/issues/1).
 
 ---
