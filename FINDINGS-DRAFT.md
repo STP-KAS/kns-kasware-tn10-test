@@ -106,3 +106,17 @@ This repo is the tn10 Grok Bot lab. The Grok Bot weekly pool is not the grok.com
 Uniqueness of these names is indexer FCFS. The creates are pubkey spends with a `kns` envelope. They are not Toccata covenant programs. `covenant_id` does not encode the label.
 
 Issue: https://github.com/STP-KAS/kns-kasware-tn10-test/issues/1
+
+## KNS Telegram snapshot — 23 Sep 2026
+
+Relayed by the operator from the KNS Telegram chat. Kept as the message was sent. This desk did not re-run the covenant registration.
+
+> We just successfully tested .kas registration on Covenant TN10 today~
+>
+> KNS Covenant UI/UX Redesign, around 80% completed. A teaser will come out soon!
+>
+> Airdrop/ Claim mechanism WIP
+>
+> Kaspire Wallet on TN10/ MN soon
+
+Same-day public read, beside the snapshot: the KNS GitBook supporting-wallet table listed KasWare, Kastle, Kurncy, and Kasanova. Kaspire was not a row. The Kaspire extension guide documents 	ransferKNS (inscription asset id) and does not document createKNS.
