@@ -4,7 +4,7 @@
 
 # kns-kasware-tn10-test
 
-Private TN10 lab for the **tn10 Grok Bot** (Linux sandbox). Not the Windows Grok Build desk. Not Kaspa core. Not mainnet. tKAS is worthless.
+TN10 lab (written while private; public now) for the **tn10 Grok Bot** (Linux sandbox). Not the Windows Grok Build desk. Not Kaspa core. Not mainnet. tKAS is worthless.
 
 Never commit seeds or private keys. Roles, not addresses.
 
